@@ -1,5 +1,5 @@
 # GFT Start #4 Java
-
+![Legenda](/assets/logo.png)
 
 ## Certificados
 - [Clique para ver os certificados obtidos]()
